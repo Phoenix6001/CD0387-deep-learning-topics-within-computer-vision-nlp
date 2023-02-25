@@ -3,7 +3,7 @@
 In this project, we utilize AWS Sagemaker to train an already pre-trained Resnet50 model capable of image classification on the given dataset for dog breed classification. Additionally, we incorporate Sagemaker profiling, debugger, hyperparameter tuning, and other commendable practices in machine learning engineering.
 
 
-## Project Set Up and Installation
+## Project Set Up
 This project was developed and tested AWS SageMaker. It was created from a starter file provided by udacity [here](https://github.com/udacity/CD0387-deep-learning-topics-within-computer-vision-nlp-project-starter).
 
 ### AWS Execution Role:
