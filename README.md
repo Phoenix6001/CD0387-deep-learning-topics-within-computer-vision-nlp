@@ -73,4 +73,4 @@ To enable inference, the model was deployed to a Sagemaker endpoint using an `ml
 
 The deployed endpoint can be queried using the predict function implemented in the notebook.
 
-![Endpoint](./screenshots/predict.png?raw=true "Endpoint")
+![predict](./screenshots/Predict.png?raw=true "predict")
