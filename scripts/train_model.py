@@ -60,7 +60,7 @@ def train(model, train_loader, validation_loader, criterion, optimizer, device, 
           Remember to include any debugging/profiling hooks that you might need
     '''
     logger.info("Training started!")
-    epochs=10
+    epochs=20
     best_loss=1e6
     image_dataset={'train':train_loader, 'valid':validation_loader}
     loss_counter=0
